@@ -3,6 +3,7 @@
 This repository contains my solution.
 
 📄 Full document:
+
 [Case Study 1 ](Case_Study_1_runpod_gpu_service_disruption_solutions.pdf)
 
 
